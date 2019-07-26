@@ -1,0 +1,46 @@
+div.perfil-content{
+    padding: 10px 0;
+}
+
+
+div.perfil-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.perfil-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: white;
+}
+
+
+div.perfil-form {
+  padding-left: px;
+  width: 70%;
+}
+div.perfil-form label{
+  font-size: 14px;
+  color: #72777a;
+
+}
+
+div.perfil-form button{
+  width: 100px;
+  background: linear-gradient(135deg, #f19671, rgb(248, 132, 132));
+  font-size: 17px;
+  color: white;
+  border: none;
+}
+div.perfil-form input, div.perfil-form select{
+  font-size: 14px;
+  
+}
+
+
