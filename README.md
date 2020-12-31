@@ -1,2 +1,2 @@
 # HealthTrack
-Trabalho facul
+App to track your health, activities and food.
